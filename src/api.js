@@ -7,6 +7,7 @@ const searchImage = async(term)=> {
             query:'cars'
         }
     })
+    
     console.log(response)
 }
 
